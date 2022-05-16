@@ -1,0 +1,4 @@
+int a;
+int b;
+intc = a+b;
+
